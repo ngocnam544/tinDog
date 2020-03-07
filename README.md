@@ -1,2 +1,1 @@
-# tinDog
-tinDog demo
+TinDog Starting Files
